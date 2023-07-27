@@ -1,0 +1,158 @@
+/* VGC_cabs/admin_panel/css/style.css */
+
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header Styles */
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+/* Sidebar Styles */
+.sidebar {
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar li {
+  margin-bottom: 10px;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: #333;
+}
+
+.sidebar a:hover {
+  color: #666;
+}
+
+/* Content Styles */
+.content {
+  padding: 20px;
+}
+
+/* Footer Styles */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer p {
+  margin: 0;
+}
+
+/* Additional Styles */
+.button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #666;
+}
+
+.card {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card h2 {
+  margin: 0;
+}
+
+.card p {
+  margin: 10px 0;
+}
+
+.card button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.card button:hover {
+  background-color: #666;
+}
+
+.notification {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.notification h3 {
+  margin: 0;
+}
+
+.notification p {
+  margin: 10px 0;
+}
+
+.notification button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.notification button:hover {
+  background-color: #666;
+}
+
+.settings {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.settings h3 {
+  margin: 0;
+}
+
+.settings p {
+  margin: 10px 0;
+}
+
+.settings button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.settings button:hover {
+  background-color: #666;
+}
