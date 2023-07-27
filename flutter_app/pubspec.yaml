@@ -1,0 +1,310 @@
+name: vgc_cabs_application
+description: VGC Cabs Application Development
+
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
+        - asset: fonts/Roboto-Bold.ttf
+          weight: 700
+
+  # Replace with your own icons
+  # flutter_icons:
+  #   image_path: "assets/icon.png"
+  #   android: true
+  #   ios: true
+
+  # Add your own assets and fonts directories
+  # flutter:
+  #   assets:
+  #     - assets/
+  #   fonts:
+  #     - family: OpenSans
+  #       fonts:
+  #         - asset: fonts/OpenSans-Regular.ttf
+  #         - asset: fonts/OpenSans-Bold.ttf
+  #           weight: 700
+
+  # Add your own dependencies
+  # dependencies:
+  #   flutter:
+  #     sdk: flutter
+  #   cupertino_icons: ^1.0.2
+  #   http: ^0.13.3
+  #   provider: ^5.0.0
+  #   shared_preferences: ^2.0.6
+
+  # Add your own dev_dependencies
+  # dev_dependencies:
+  #   flutter_test:
+  #     sdk: flutter
+
+  # Add your own flutter configurations
+  # flutter:
+  #   uses-material-design: true
+  #   assets:
+  #     - assets/
+  #   fonts:
+  #     - family: Roboto
+  #       fonts:
+  #         - asset: fonts/Roboto-Regular.ttf
+  #         - asset: fonts/Roboto-Bold.ttf
+  #           weight: 700
+
+  # Replace with your own app name and description
+  # name: vgc_cabs_application
+  # description: VGC Cabs Application Development
+
+  # Replace with your own app version
+  # version: 1.0.0
+
+  # Replace with your own environment configurations
+  # environment:
+  #   sdk: ">=2.12.0 <3.0.0"
+
+  # Replace with your own dependencies
+  # dependencies:
+  #   flutter:
+  #     sdk: flutter
+  #   cupertino_icons: ^1.0.2
+
+  # Replace with your own dev_dependencies
+  # dev_dependencies:
+  #   flutter_test:
+  #     sdk: flutter
+
+  # Replace with your own flutter configurations
+  # flutter:
+  #   uses-material-design: true
+  #   assets:
+  #     - assets/
+  #   fonts:
+  #     - family: Roboto
+  #       fonts:
+  #         - asset: fonts/Roboto-Regular.ttf
+  #         - asset: fonts/Roboto-Bold.ttf
+  #           weight: 700
+
+  # Replace with your own app name and description
+  # name: vgc_cabs_application
+  # description: VGC Cabs Application Development
+
+  # Replace with your own app version
+  # version: 1.0.0
+
+  # Replace with your own environment configurations
+  # environment:
+  #   sdk: ">=2.12.0 <3.0.0"
+
+  # Replace with your own dependencies
+  # dependencies:
+  #   flutter:
+  #     sdk: flutter
+  #   cupertino_icons: ^1.0.2
+
+  # Replace with your own dev_dependencies
+  # dev_dependencies:
+  #   flutter_test:
+  #     sdk: flutter
+
+  # Replace with your own flutter configurations
+  # flutter:
+  #   uses-material-design: true
+  #   assets:
+  #     - assets/
+  #   fonts:
+  #     - family: Roboto
+  #       fonts:
+  #         - asset: fonts/Roboto-Regular.ttf
+  #         - asset: fonts/Roboto-Bold.ttf
+  #           weight: 700
+
+  # Replace with your own app name and description
+  # name: vgc_cabs_application
+  # description: VGC Cabs Application Development
+
+  # Replace with your own app version
+  # version: 1.0.0
+
+  # Replace with your own environment configurations
+  # environment:
+  #   sdk: ">=2.12.0 <3.0.0"
+
+  # Replace with your own dependencies
+  # dependencies:
+  #   flutter:
+  #     sdk: flutter
+  #   cupertino_icons: ^1.0.2
+
+  # Replace with your own dev_dependencies
+  # dev_dependencies:
+  #   flutter_test:
+  #     sdk: flutter
+
+  # Replace with your own flutter configurations
+  # flutter:
+  #   uses-material-design: true
+  #   assets:
+  #     - assets/
+  #   fonts:
+  #     - family: Roboto
+  #       fonts:
+  #         - asset: fonts/Roboto-Regular.ttf
+  #         - asset: fonts/Roboto-Bold.ttf
+  #           weight: 700
+
+  # Replace with your own app name and description
+  # name: vgc_cabs_application
+  # description: VGC Cabs Application Development
+
+  # Replace with your own app version
+  # version: 1.0.0
+
+  # Replace with your own environment configurations
+  # environment:
+  #   sdk: ">=2.12.0 <3.0.0"
+
+  # Replace with your own dependencies
+  # dependencies:
+  #   flutter:
+  #     sdk: flutter
+  #   cupertino_icons: ^1.0.2
+
+  # Replace with your own dev_dependencies
+  # dev_dependencies:
+  #   flutter_test:
+  #     sdk: flutter
+
+  # Replace with your own flutter configurations
+  # flutter:
+  #   uses-material-design: true
+  #   assets:
+  #     - assets/
+  #   fonts:
+  #     - family: Roboto
+  #       fonts:
+  #         - asset: fonts/Roboto-Regular.ttf
+  #         - asset: fonts/Roboto-Bold.ttf
+  #           weight: 700
+
+  # Replace with your own app name and description
+  # name: vgc_cabs_application
+  # description: VGC Cabs Application Development
+
+  # Replace with your own app version
+  # version: 1.0.0
+
+  # Replace with your own environment configurations
+  # environment:
+  #   sdk: ">=2.12.0 <3.0.0"
+
+  # Replace with your own dependencies
+  # dependencies:
+  #   flutter:
+  #     sdk: flutter
+  #   cupertino_icons: ^1.0.2
+
+  # Replace with your own dev_dependencies
+  # dev_dependencies:
+  #   flutter_test:
+  #     sdk: flutter
+
+  # Replace with your own flutter configurations
+  # flutter:
+  #   uses-material-design: true
+  #   assets:
+  #     - assets/
+  #   fonts:
+  #     - family: Roboto
+  #       fonts:
+  #         - asset: fonts/Roboto-Regular.ttf
+  #         - asset: fonts/Roboto-Bold.ttf
+  #           weight: 700
+
+  # Replace with your own app name and description
+  # name: vgc_cabs_application
+  # description: VGC Cabs Application Development
+
+  # Replace with your own app version
+  # version: 1.0.0
+
+  # Replace with your own environment configurations
+  # environment:
+  #   sdk: ">=2.12.0 <3.0.0"
+
+  # Replace with your own dependencies
+  # dependencies:
+  #   flutter:
+  #     sdk: flutter
+  #   cupertino_icons: ^1.0.2
+
+  # Replace with your own dev_dependencies
+  # dev_dependencies:
+  #   flutter_test:
+  #     sdk: flutter
+
+  # Replace with your own flutter configurations
+  # flutter:
+  #   uses-material-design: true
+  #   assets:
+  #     - assets/
+  #   fonts:
+  #     - family: Roboto
+  #       fonts:
+  #         - asset: fonts/Roboto-Regular.ttf
+  #         - asset: fonts/Roboto-Bold.ttf
+  #           weight: 700
+
+  # Replace with your own app name and description
+  # name: vgc_cabs_application
+  # description: VGC Cabs Application Development
+
+  # Replace with your own app version
+  # version: 1.0.0
+
+  # Replace with your own environment configurations
+  # environment:
+  #   sdk: ">=2.12.0 <3.0.0"
+
+  # Replace with your own dependencies
+  # dependencies:
+  #   flutter:
+  #     sdk: flutter
+  #   cupertino_icons: ^1.0.2
+
+  # Replace with your own dev_dependencies
+  # dev_dependencies:
+  #   flutter_test:
+  #     sdk: flutter
+
+  # Replace with your own flutter configurations
+  # flutter:
+  #   uses-material-design: true
+  #   assets:
+  #     - assets/
+  #   fonts:
+  #     - family: Roboto
+  #       fonts:
+  #         - asset: fonts/Roboto-Regular.ttf
+  #         - asset:
